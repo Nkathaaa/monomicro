@@ -1,0 +1,9 @@
+export POSTGRES_USERNAME=nkathaadmin
+export POSTGRES_PASSWORD=Kn1ghTleY
+export POSTGRES_HOST=monomicrotest.czhq2pgbngy2.us-east-1.rds.amazonaws.com
+export POSTGRES_DB=postgres
+export AWS_BUCKET=arn:aws:s3:::monomicro006189602125
+export AWS_REGION=us-east-1
+export AWS_PROFILE=default
+export JWT_SECRET=testing
+export URL=http://localhost:8100
