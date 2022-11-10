@@ -7,7 +7,7 @@ services:
   api_user:
     build:
       context: ./udagram-api-user
-    image: udagram-api-user:v4a
+    image: udagram-api-user:v4ag
   api_feed:
     build:
       context: ./udagram-api-feed
